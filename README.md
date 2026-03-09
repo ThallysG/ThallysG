@@ -1,16 +1,20 @@
-## Hi there 👋
+# Thallys G.
 
-<!--
-**ThallysG/ThallysG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design experiments to isolate signal from noise.
 
-Here are some ideas to get you started:
+Nearly a decade in chemistry doing exactly that — controlled experiments,
+uncertainty modeling, hypothesis rejection. Most ideas failed. That was the point.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now applying the same discipline to forecasting: Bayesian inference, hierarchical
+time-series models, regime-switching, walk-forward validation.
+
+**How I work:**
+- Falsifiable hypothesis first
+- Explicit assumptions, quantified uncertainty
+- Validate out-of-sample, document what breaks
+
+Currently: hierarchical Bayesian time-series → regime-switching models.
+
+---
+
+`Python` `PyMC` `NumPy` `pandas` `Jupyter`
